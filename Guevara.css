@@ -1,0 +1,43 @@
+h1{color:Yellow;font-size:60px;background-color:Red;
+border-style:Solid;
+border-width: 3px, 3px,3px,3px;
+}
+body{background-color:Darkred;color:Yellow;font-size:30px;font-style:Italic;
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    float: left;
+}
+
+li a{display: block;
+padding: 8px
+background-color: Yellow;
+color: Green;
+text-align: center;
+padding: 20px 16px;
+text-decloration: none;
+
+	
+}   
+
+li a:hover{ background-color: Yellow;
+	
+}
+
+li{border-right: 10px solid Yellow;
+border-bottom: 7px solid Yellow;	
+border-left: 7px solid Yellow;
+border-top: 10px solid Yellow;
+}
+
+h3{color:Yellow;font-size:20px;	
+}
+h4{background-color:Green;
+	
+}
